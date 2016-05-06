@@ -10,4 +10,7 @@ First the user must save the source code of the webpage that hosts thier desired
 The user would then run the script which does the following:
   - The script searches through the source code using regular expressions to extract the source of where the page (image) is loaded from
   - The pages (images) are then downloaded and stored in a local folder
-  - The images are then merged together and formed into a pdf
+  - A seperate script can then combine the downloaded images to form a pdf
+
+Scribd might have updated their source code since the script was first created
+Last time script was tested: July 2015
