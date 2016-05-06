@@ -13,4 +13,5 @@ The user would then run the script which does the following:
   - A seperate script can then combine the downloaded images to form a pdf
 
 Scribd might have updated their source code since the script was first created
+
 Last time script was tested: July 2015
