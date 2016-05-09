@@ -12,6 +12,8 @@ The user would then run the script which does the following:
   - The pages (images) are then downloaded and stored in a local folder
   - A seperate script can then combine the downloaded images to form a pdf
 
+This script works with Python 2.7
+
 Scribd might have updated their source code since the script was first created
 
-Last time script was tested: July 2015
+Last time script was tested: May 2016
