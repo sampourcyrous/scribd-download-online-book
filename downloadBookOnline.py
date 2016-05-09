@@ -2,7 +2,6 @@ import codecs
 import re
 import requests
 import urllib2
-from time import sleep
 
 class OnlineBook:
     def __init__(self, filename):
